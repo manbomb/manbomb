@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my private repos**
 
-- 🌱 I’m currently learning **about AWS products**
+- 🌱 I’m currently learning **about AWS products for IOT and React Native**
 
 - 👯 I’m looking to collaborate on **my university's projects**
 
