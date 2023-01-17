@@ -17,5 +17,5 @@
 
 <br />
 
-![Manbomb's GitHub stats](https://github-readme-stats.vercel.app/api?username=manbomb&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manbomb&layout=compact&hide=jupyter%20notebook,HTML,objective-c&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Manbomb's GitHub stats](https://github-readme-stats.vercel.app/api?username=manbomb&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manbomb&layout=compact&hide=jupyter%20notebook,HTML,objective-c&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
