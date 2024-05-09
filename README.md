@@ -3,18 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manbomb&label=Profile%20views&color=0e75b6&style=flat" alt="manbomb" /> </p>
 
-- 🔭 I’m currently working on **@plin-energia projects**
-
-- 🌱 I’m currently learning **about AWS products, React frontend best pratices, Node.js and Clean Code**
-
-- 👯 I’m looking to collaborate on **new projects**
-
-- 🤝 I’m looking for help with **concepts of Software Eng.**
-
-- 💬 Ask me about **React, AWS, IoT, Eletrical Eng. and Math**
-
-- 📫 How to reach me **sergiolucasavilladasilva@gmail.com**
-
+- 🔭 I’m currently working on **@sing-software projects**
 <br />
 
 <!-- ![Manbomb's GitHub stats](https://github-readme-stats.vercel.app/api?username=manbomb&show_icons=true&theme=tokyonight)
